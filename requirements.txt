@@ -12,7 +12,7 @@ scikit-learn==1.2.0
 scipy==1.10.0
 streamlit==1.17.0
 sympy==1.11.1
-torch==1.13.1+cu117
+torch==1.13.1
 torch-utils==0.1.2
-torchaudio==0.13.1+cu117
-torchvision==0.14.1+cu117
+torchaudio==0.13.1
+torchvision==0.14.1
