@@ -1,2 +1,2 @@
-0, diseased
-1, healthy
+0, Diseased
+1, Healthy
