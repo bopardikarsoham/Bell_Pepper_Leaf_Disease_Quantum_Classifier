@@ -11,7 +11,7 @@ def predict(image_path):
 
     # load model
     PATH = "bell_pepper_quantum.pt"
-    model_hybrid.load_state_dict(torch.load(PATH))
+    model_hybrid.load_state_dict(torch.load(PATH),map_location=torch.device('cpu'))
     model_hybrid.to(device)
 
 
