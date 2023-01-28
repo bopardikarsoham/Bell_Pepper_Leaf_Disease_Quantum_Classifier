@@ -41,6 +41,14 @@ To launch the server and run the project,
 streamlit run streamlit_app.py
 ```
 
+## Docker Installation [Beta] 🐳
+
+```
+sudo systemctl start docker
+docker build -t app:latest .
+docker run -it -d -p 8080:8080 app
+```
+
 ## Bell Pepper test input from [PlantVillage](https://github.com/bopardikarsoham/Bell_Pepper_Leaf_Disease_Quantum_Classifier/tree/main/PlantVillage) dataset in repo:computer:
 
 <p align="center">
