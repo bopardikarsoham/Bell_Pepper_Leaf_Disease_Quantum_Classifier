@@ -9,7 +9,7 @@ qiskit-machine-learning==0.5.0
 qiskit-terra==0.22.4
 rustworkx==0.12.1
 scikit-learn==1.0.2
-scipy==1.12.0
+scipy==1.11.1
 streamlit==1.17.0
 sympy==1.10.1
 torch==1.13.1
