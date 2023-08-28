@@ -1,6 +1,6 @@
 # Bell Pepper Leaf Disease Detection Using Quantum Deep Learning
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bopardikarsoham-bell-pepper-leaf-disease-quantum-cla-app-igx5u0.streamlit.app/)  :arrow_left:	 It also works on mobile devices
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bopardikarsoham-bell-pepper-leaf-disease-quantum-cla-app-igx5u0.streamlit.app/)  **[Package version conflict errors are yet to be fixed 🛠️]**
 
 Farming dominates as an occupation in the agriculture domain in more than 125 countries. However, even these crops are, subjected to infections and diseases. Plant diseases are a major threat to food security at the global scale. Plant diseases are a significant threat to human life as they may lead to droughts and famines, due to rapid infection and lack of the necessary infrastructure. It's troublesome to observe the plant diseases manually. It needs tremendous quantity of labor, expertise within the plant diseases. Here I present to you a hybrid quantum-classical Deep Learning Model that solves the problem for a Bell Pepper Leaf.
 
